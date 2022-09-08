@@ -1,0 +1,34 @@
+[I 19:15:22.385 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-09-08 19:15:23.159 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.159 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.160 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.160 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.160 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.160 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.160 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.160 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-08 19:15:23.160 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-08 19:15:23.160 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.160 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-08 19:15:23.160 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-09-08 19:15:23.188 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-09-08 19:15:23.188 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:15:23.207 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:15:23.209 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:15:23.211 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:15:23.211 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 19:15:23.211 NotebookApp] http://jupyter-adoringstarling-2dherr-5fcomp-5f20222-2dhfr6e3gr:8888/user/adoringstarling-herr_comp_20222-hfr6e3gr/?token=...
+[I 19:15:23.211 NotebookApp]  or http://127.0.0.1:8888/user/adoringstarling-herr_comp_20222-hfr6e3gr/?token=...
+[I 19:15:23.212 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:15:23.220 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:15:23.296 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/ (10.2.2.15) 2.180000ms
+[I 19:15:23.839 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/?token=JeoroDVPTEGFZbHSJyPYDA (168.176.239.67) 0.930000ms
+[I 19:15:24.018 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/lab/?token=JeoroDVPTEGFZbHSJyPYDA (168.176.239.67) 1.510000ms
+[I 19:15:25.240 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/static/favicons/favicon.ico (168.176.239.67) 0.560000ms
+[I 2022-09-08 19:15:30.106 LabApp] Build is up to date
+[I 19:17:33.959 NotebookApp] New terminal with automatic name: 1
+[I 19:21:00.799 NotebookApp] Creating new file in 
+[I 19:23:01.733 NotebookApp] Saving file at /untitled.txt
+[I 19:25:02.128 NotebookApp] Saving file at /untitled.txt
+[I 19:27:02.532 NotebookApp] Saving file at /untitled.txt
+[I 19:29:02.916 NotebookApp] Saving file at /untitled.txt
