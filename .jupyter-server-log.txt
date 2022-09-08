@@ -32,3 +32,22 @@
 [I 19:25:02.128 NotebookApp] Saving file at /untitled.txt
 [I 19:27:02.532 NotebookApp] Saving file at /untitled.txt
 [I 19:29:02.916 NotebookApp] Saving file at /untitled.txt
+[I 19:31:03.312 NotebookApp] Saving file at /JimenezJuan_S5C2_repasoC.cpp
+[I 19:35:17.931 NotebookApp] Saving file at /JimenezJuan_S5C2_repasoC.cpp
+[W 19:35:53.470 NotebookApp] 400 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/api/contents/ejecutable?type=file&content=1&format=text&1662665724886 (168.176.239.67): /home/jovyan/ejecutable is not UTF-8 encoded
+[W 19:35:53.470 NotebookApp] /home/jovyan/ejecutable is not UTF-8 encoded
+[W 19:35:53.471 NotebookApp] 400 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/api/contents/ejecutable?type=file&content=1&format=text&1662665724886 (168.176.239.67) 1.770000ms referer=https://hub-binder.mybinder.ovh/user/adoringstarling-herr_comp_20222-hfr6e3gr/lab
+[W 19:36:03.879 NotebookApp] delete /ejecutable
+[W 19:36:50.271 NotebookApp] 400 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/api/contents/a.out?type=file&content=1&format=text&1662665781688 (168.176.239.67): /home/jovyan/a.out is not UTF-8 encoded
+[W 19:36:50.272 NotebookApp] /home/jovyan/a.out is not UTF-8 encoded
+[W 19:36:50.272 NotebookApp] 400 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/api/contents/a.out?type=file&content=1&format=text&1662665781688 (168.176.239.67) 1.800000ms referer=https://hub-binder.mybinder.ovh/user/adoringstarling-herr_comp_20222-hfr6e3gr/lab
+[I 19:43:18.749 NotebookApp] Saving file at /JimenezJuan_S5C2_repasoC.cpp
+[W 19:44:13.835 NotebookApp] 400 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/api/contents/helloworld.exe?type=file&content=1&format=text&1662666225248 (168.176.239.67): /home/jovyan/helloworld.exe is not UTF-8 encoded
+[W 19:44:13.836 NotebookApp] /home/jovyan/helloworld.exe is not UTF-8 encoded
+[W 19:44:13.836 NotebookApp] 400 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/api/contents/helloworld.exe?type=file&content=1&format=text&1662666225248 (168.176.239.67) 2.910000ms referer=https://hub-binder.mybinder.ovh/user/adoringstarling-herr_comp_20222-hfr6e3gr/lab
+[W 19:44:19.219 NotebookApp] 400 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/api/contents/a.out?type=file&content=1&format=text&1662666230631 (168.176.239.67): /home/jovyan/a.out is not UTF-8 encoded
+[W 19:44:19.221 NotebookApp] /home/jovyan/a.out is not UTF-8 encoded
+[W 19:44:19.223 NotebookApp] 400 GET /user/adoringstarling-herr_comp_20222-hfr6e3gr/api/contents/a.out?type=file&content=1&format=text&1662666230631 (168.176.239.67) 7.170000ms referer=https://hub-binder.mybinder.ovh/user/adoringstarling-herr_comp_20222-hfr6e3gr/lab
+[I 19:45:19.393 NotebookApp] Saving file at /JimenezJuan_S5C2_repasoC.cpp
+[I 19:47:19.858 NotebookApp] Saving file at /JimenezJuan_S5C2_repasoC.cpp
+[I 19:53:20.456 NotebookApp] Saving file at /JimenezJuan_S5C2_repasoC.cpp
