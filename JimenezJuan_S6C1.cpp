@@ -4,6 +4,8 @@
 #include <time.h>
 #include <vector>
 #include <bits/stdc++.h>
+#include <fstream>
+
 
 using namespace std;
 
@@ -34,16 +36,9 @@ int main(){
     double z=x/y;
     cout << "\nEl resultado es "<<z<<"\n";
     srand(time(NULL));
-  //  int arr[] = new int[300]
-  //  unsigned int arr_length = 0;
-  //  std::vector< int > arr;
     int arr1[300] = {};
     for (int i = 0; i < 300; i++)
         arr1[i]=rand()% 900 + 0;
-        //arr.push_back(rand()% 900 + 0);
-        //arr[arr_length++] = rand()% 900 + 0;
-        //cout << rand()% 900 + 0 << " ";
-    //int *arr1 = &arr[0];
     for (int i = 0; i < 300; i++) {
        cout << arr1[i] << "\n";}
     cout << "Quinto elemento del arreglo: " << arr1[5] <<"\n";
@@ -55,9 +50,12 @@ int main(){
     int n = sizeof(arr1) / sizeof(arr1[0]);
     cout << "\nMin Element = "
          << *min_element(arr1, arr1 + n)<<"\n";
+    int arr2[300] = {};
+    int j=0;
     for (int i = 0; i < 300; i++) {
         if (arr1[i]%2!=0){
             cout << arr1[i]<<"\n";
+            arr2[i]=arr1[i];
             if (arr1[i]>=800){
             break;}
         }        
@@ -65,9 +63,24 @@ int main(){
             break;
         }
     };
+      ofstream myfile ("example1.txt");
+      if (myfile.is_open())
+      {
+        for(int count = 0; count < sizeof(arr1)/ sizeof(int); count ++){
+            myfile << arr1[count] << " " ;
+        }
+        myfile.close();
+      };
+      ofstream myfile1 ("example2.txt");
+      if (myfile1.is_open())
+      {
+        for(int count = 0; count < sizeof(arr2)/ sizeof(int); count ++){
+            myfile1 << arr2[count] << " " ;
+        }
+        myfile1.close();
+      };
     return 0;
     }
     
 /* Mas control en el codigo (por ejemplo, en la variable)
 tipos de datos en c++*/
-
