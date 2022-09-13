@@ -11,8 +11,9 @@ plt.savefig('aleatorios.png')
 plt.close()
 
 url='example2.txt'
-narray=np.loadtxt(url)
+narray1=np.loadtxt(url)
 
-plt.plot(narray,'.')
+plt.plot(narray,'-')
+plt.plot(narray1,'.')
 plt.savefig('aleatorios_con_impares.png')
 
