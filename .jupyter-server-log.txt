@@ -235,3 +235,37 @@
 [I 20:27:08.848 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
 [I 20:29:08.866 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
 [I 20:29:09.079 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[I 20:31:09.649 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[I 20:34:44.050 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[I 20:34:52.710 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[I 20:35:20.955 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[I 20:36:45.311 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[I 20:38:23.339 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[I 20:40:45.557 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[I 20:40:45.564 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[W 20:40:52.894 NotebookApp] delete /aleatorios_con_impares.png
+[W 20:40:52.898 NotebookApp] delete /aleatorios.png
+[W 20:40:52.902 NotebookApp] delete /example.txt
+[W 20:40:52.904 NotebookApp] delete /example1.txt
+[W 20:40:52.906 NotebookApp] delete /example2.txt
+[W 20:41:09.647 NotebookApp] delete /JimenezJuan_S6C1.exe
+[W 20:42:30.172 NotebookApp] delete /JimenezJuan_SGC1.exe
+[W 20:43:02.895 NotebookApp] delete /JimenezJuan_SGC1.exe
+[I 20:43:08.730 NotebookApp] Saving file at /JimenezJuan_S6C1.mk
+[W 20:44:28.898 NotebookApp] delete /aleatorios_con_impares.png
+[W 20:44:28.903 NotebookApp] delete /aleatorios.png
+[W 20:44:28.906 NotebookApp] delete /example1.txt
+[W 20:44:28.908 NotebookApp] delete /JimenezJuan_S6C1.exe
+[W 20:44:28.910 NotebookApp] delete /example2.txt
+[I 20:44:32.729 NotebookApp] Creating new directory in 
+[W 20:46:24.561 NotebookApp] delete /S6C1/aleatorios_con_impares.png
+[W 20:46:24.569 NotebookApp] delete /S6C1/aleatorios.png
+[W 20:46:24.571 NotebookApp] delete /S6C1/example1.txt
+[W 20:46:24.573 NotebookApp] delete /S6C1/example2.txt
+[W 20:46:24.575 NotebookApp] delete /S6C1/JimenezJuan_S6C1.exe
+[I 20:47:18.698 NotebookApp] Saving file at /S6C1/JimenezJuan_S6C1.mk
+[W 20:47:29.430 NotebookApp] delete /S6C1/aleatorios_con_impares.png
+[W 20:47:29.434 NotebookApp] delete /S6C1/aleatorios.png
+[W 20:47:29.436 NotebookApp] delete /S6C1/example1.txt
+[W 20:47:29.459 NotebookApp] delete /S6C1/example2.txt
+[W 20:47:29.462 NotebookApp] delete /S6C1/JimenezJuan_S6C1.exe
