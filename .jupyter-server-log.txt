@@ -282,3 +282,91 @@
 [W 20:51:02.632 NotebookApp] delete /S6C1/JimenezJuan_S6C1.exe
 [W 20:51:02.635 NotebookApp] delete /S6C1/aleatorios.png
 [I 20:51:10.998 NotebookApp] Saving file at /S6C1/JimenezJuan_S6C1.py
+[W 2022-09-15 19:23:24.320 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.320 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.320 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.320 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.320 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.321 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.321 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.321 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-15 19:23:24.321 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-15 19:23:24.321 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.321 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-15 19:23:24.321 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-09-15 19:23:24.330 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-09-15 19:23:24.330 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:23:24.339 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:23:24.341 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:23:24.341 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:23:24.341 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 19:23:24.341 NotebookApp] http://jupyter-adoringstarling-2dherr-5fcomp-5f20222-2d75x5c7gl:8888/user/adoringstarling-herr_comp_20222-75x5c7gl/?token=...
+[I 19:23:24.342 NotebookApp]  or http://127.0.0.1:8888/user/adoringstarling-herr_comp_20222-75x5c7gl/?token=...
+[I 19:23:24.342 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:23:24.346 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:23:25.245 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-75x5c7gl/ (10.2.2.15) 1.200000ms
+[I 19:23:26.068 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-75x5c7gl/?token=UCiwlYnWSR68bG8fRBN7HQ (168.176.239.67) 0.990000ms
+[I 19:23:26.250 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-75x5c7gl/lab/?token=UCiwlYnWSR68bG8fRBN7HQ (168.176.239.67) 2.580000ms
+[I 19:23:27.367 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-75x5c7gl/static/favicons/favicon.ico (168.176.239.67) 1.200000ms
+[I 2022-09-15 19:23:31.975 LabApp] Build is up to date
+[I 19:23:36.985 NotebookApp] New terminal with automatic name: 1
+[I 19:30:51.797 NotebookApp] Creating new directory in 
+[I 19:54:49.078 NotebookApp] Creating new file in /S6C2
+[I 20:06:51.134 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2.cpp
+[I 20:12:51.943 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:14:52.336 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:16:52.968 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:18:53.649 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:22:54.740 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:26:55.139 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:28:55.553 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:30:39.904 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-75x5c7gl/ (10.2.2.15) 1.130000ms
+[I 20:30:55.937 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:32:26.160 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:33:34.135 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:34:01.916 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:35:08.598 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:36:00.714 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:36:33.401 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:37:35.180 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:37:48.432 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:38:50.288 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:39:12.681 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:40:07.434 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:40:21.495 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:41:00.472 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:41:49.873 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:43:50.870 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:44:59.294 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:46:20.705 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:46:50.005 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:47:38.978 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:47:55.751 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:49:13.274 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:49:31.065 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 20:49:42.505 NotebookApp] Creating new notebook in /S6C2
+[I 20:49:42.605 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 20:49:44.038 NotebookApp] Kernel started: b95a257b-36a4-49e5-82c7-73a180e5d4e2, name: python3
+[I 20:49:44.038 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 20:49:44.039 NotebookApp] Culling kernels even with connected clients
+[I 20:49:45.644 NotebookApp] Starting buffering for b95a257b-36a4-49e5-82c7-73a180e5d4e2:1aeb16fe-ea9d-4c5f-a5ca-a209e18af06a
+[I 20:49:46.190 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-75x5c7gl/static/favicons/favicon.ico (168.176.239.67) 1.280000ms
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c660e44a-8bf2-4b69-af80-60e9734e1f5a
+[I 20:49:46.337 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-75x5c7gl/static/favicons/favicon.ico (168.176.239.67) 0.730000ms
+[I 20:49:53.108 NotebookApp] Kernel shutdown: b95a257b-36a4-49e5-82c7-73a180e5d4e2
+[W 20:49:53.690 NotebookApp] delete /S6C2/Untitled.ipynb
+[I 20:49:56.630 NotebookApp] Kernel started: 20d2510f-b75d-47df-af0a-99ceca097a1e, name: python3
+[I 20:50:02.966 NotebookApp] Starting buffering for 20d2510f-b75d-47df-af0a-99ceca097a1e:27c5ede2-c2bb-4368-8425-dc08e30827c4
+[I 20:50:07.709 NotebookApp] Creating new file in /S6C2
+[I 20:52:08.555 NotebookApp] Saving file at /S6C2/untitled.py
+[I 20:52:24.175 NotebookApp] Saving file at /S6C2/untitled.py
+[I 20:53:46.588 NotebookApp] Saving file at /S6C2/untitled.py
+[I 20:54:48.858 NotebookApp] Creating new file in /S6C2
+[I 20:56:49.664 NotebookApp] Saving file at /S6C2/untitled.mk
+[I 20:56:54.098 NotebookApp] Saving file at /S6C1/JimenezJuan_S6C1.cpp
+[I 20:58:50.377 NotebookApp] Saving file at /S6C2/untitled.mk
+[I 20:59:10.294 NotebookApp] Saving file at /S6C2/untitled.mk
+[I 20:59:50.546 NotebookApp] Saving file at /S6C2/untitled.mk
+[W 21:00:44.040 NotebookApp] Culling 'idle' kernel 'python3' (20d2510f-b75d-47df-af0a-99ceca097a1e) with 0 connections due to 645 seconds of inactivity.
+[I 21:00:44.042 NotebookApp] Kernel shutdown: 20d2510f-b75d-47df-af0a-99ceca097a1e
