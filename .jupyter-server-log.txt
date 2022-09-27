@@ -454,3 +454,14 @@
 [I 21:01:13.640 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
 [I 21:01:34.354 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
 [I 21:02:00.380 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 21:05:53.685 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 21:06:38.400 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 21:06:58.006 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[W 21:07:16.795 NotebookApp] delete /S7C1/a.exe
+[W 21:07:16.804 NotebookApp] delete /S7C1/xeu.txt
+[W 21:07:16.809 NotebookApp] delete /S7C1/yeuv.txt
+[W 21:07:16.811 NotebookApp] delete /S7C1/yeux.txt
+[W 21:07:16.813 NotebookApp] delete /S7C1/yrkv.txt
+[W 21:07:16.971 NotebookApp] delete /S7C1/yrkx.txt
+[W 21:07:16.974 NotebookApp] delete /S7C1/EULER_1.PNG
+[W 21:07:16.977 NotebookApp] delete /S7C1/Runge Kutta_1.PNG
