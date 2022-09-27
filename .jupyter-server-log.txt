@@ -370,3 +370,87 @@
 [I 20:59:50.546 NotebookApp] Saving file at /S6C2/untitled.mk
 [W 21:00:44.040 NotebookApp] Culling 'idle' kernel 'python3' (20d2510f-b75d-47df-af0a-99ceca097a1e) with 0 connections due to 645 seconds of inactivity.
 [I 21:00:44.042 NotebookApp] Kernel shutdown: 20d2510f-b75d-47df-af0a-99ceca097a1e
+[W 2022-09-27 19:08:36.863 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.863 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.863 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.864 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.864 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.864 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.864 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.864 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-27 19:08:36.864 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-27 19:08:36.864 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.864 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-27 19:08:36.864 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-09-27 19:08:36.879 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-09-27 19:08:36.880 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:08:36.888 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:08:36.890 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:08:36.891 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:08:36.891 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 19:08:36.891 NotebookApp] http://jupyter-adoringstarling-2dherr-5fcomp-5f20222-2dw9q1qbsp:8888/user/adoringstarling-herr_comp_20222-w9q1qbsp/?token=...
+[I 19:08:36.891 NotebookApp]  or http://127.0.0.1:8888/user/adoringstarling-herr_comp_20222-w9q1qbsp/?token=...
+[I 19:08:36.891 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:08:36.896 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:08:37.158 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-w9q1qbsp/ (10.2.2.15) 1.060000ms
+[I 19:08:37.993 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-w9q1qbsp/?token=5l8hBwFBRxa8NWWDslprGw (168.176.239.67) 1.420000ms
+[I 19:08:38.245 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-w9q1qbsp/lab/?token=5l8hBwFBRxa8NWWDslprGw (168.176.239.67) 2.810000ms
+[I 19:08:39.676 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-w9q1qbsp/static/favicons/favicon.ico (168.176.239.67) 0.840000ms
+[I 2022-09-27 19:08:45.213 LabApp] Build is up to date
+[I 19:08:46.348 NotebookApp] New terminal with automatic name: 1
+[I 19:18:49.705 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 19:20:51.213 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 19:22:51.606 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 19:24:52.025 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 19:26:52.403 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 19:28:52.794 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 19:30:34.024 NotebookApp] Saving file at /S6C2/makefile_JimenezJuan_S6C2_EDO.mk
+[I 19:35:38.949 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[I 19:36:11.546 NotebookApp] Saving file at /S6C2/PLOTS_JuanJimenez_S6C2.py
+[I 19:37:27.510 NotebookApp] Saving file at /S6C2/JimenezJuan_S6C2_EDO.cpp
+[W 19:39:16.771 NotebookApp] delete /S6C2/a.exe
+[I 19:39:37.834 NotebookApp] Creating new directory in 
+[I 19:41:24.357 NotebookApp] Saving file at /S6C2/makefile_JimenezJuan_S6C2_EDO.mk
+[I 19:45:24.727 NotebookApp] Saving file at /S6C2/makefile_JimenezJuan_S6C2_EDO.mk
+[I 19:47:12.396 NotebookApp] Creating new file in /S7C1
+[I 19:50:35.274 NotebookApp] Creating new file in /S7C1
+[I 19:51:22.924 NotebookApp] New terminal with automatic name: 2
+[I 19:51:29.004 NotebookApp] Creating new file in /S7C1
+[I 19:54:54.562 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:08:55.383 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:10:55.994 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:12:56.424 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:14:56.843 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:16:57.257 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:18:30.220 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:20:06.816 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:20:30.646 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:21:11.355 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:22:18.170 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:23:05.442 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:25:49.852 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:28:24.186 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 20:29:52.468 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:31:02.054 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:33:02.394 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:33:02.455 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:35:02.826 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:37:03.255 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:39:03.675 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:43:04.554 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:45:05.189 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:47:05.572 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:49:06.189 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:49:21.450 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:49:40.072 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:51:40.446 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:52:47.851 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:54:48.253 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:56:48.662 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:57:53.951 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:58:25.700 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 20:59:15.331 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 21:00:50.216 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 21:01:13.640 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 21:01:34.354 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 21:02:00.380 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
