@@ -465,3 +465,169 @@
 [W 21:07:16.971 NotebookApp] delete /S7C1/yrkx.txt
 [W 21:07:16.974 NotebookApp] delete /S7C1/EULER_1.PNG
 [W 21:07:16.977 NotebookApp] delete /S7C1/Runge Kutta_1.PNG
+[W 2022-09-29 19:08:03.280 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-29 19:08:03.280 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-09-29 19:08:03.280 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-09-29 19:08:03.280 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-09-29 19:08:03.294 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-09-29 19:08:03.294 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:08:03.303 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:08:03.305 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:08:03.306 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:08:03.306 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 19:08:03.306 NotebookApp] http://jupyter-adoringstarling-2dherr-5fcomp-5f20222-2d23x8xqbu:8888/user/adoringstarling-herr_comp_20222-23x8xqbu/?token=...
+[I 19:08:03.306 NotebookApp]  or http://127.0.0.1:8888/user/adoringstarling-herr_comp_20222-23x8xqbu/?token=...
+[I 19:08:03.306 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:08:03.315 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:08:03.354 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-23x8xqbu/ (10.2.2.15) 1.320000ms
+[I 19:08:44.933 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-23x8xqbu/?token=rveptYFVSVaUvGBU9YiSVQ (168.176.239.67) 1.280000ms
+[I 19:08:45.108 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-23x8xqbu/lab/?token=rveptYFVSVaUvGBU9YiSVQ (168.176.239.67) 1.680000ms
+[I 19:08:46.241 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-23x8xqbu/static/favicons/favicon.ico (168.176.239.67) 0.570000ms
+[I 2022-09-29 19:08:52.956 LabApp] Build is up to date
+[I 19:08:53.950 NotebookApp] New terminal with automatic name: 1
+[I 19:12:56.063 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:16:56.471 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:18:56.894 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:20:57.280 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:22:57.659 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:24:58.039 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:26:58.408 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:28:58.782 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:30:59.158 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:32:59.534 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:34:59.950 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:37:00.574 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:37:25.787 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:38:36.058 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:38:52.780 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:40:53.161 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:41:51.075 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 19:43:51.456 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 19:46:53.548 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:47:51.368 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:49:49.303 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:51:49.677 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:54:34.290 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:56:00.659 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:56:49.158 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:57:56.481 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 19:59:42.638 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 20:03:44.503 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:07:24.500 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:08:51.037 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:12:51.967 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:14:52.330 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:15:00.448 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:23:25.398 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:25:16.646 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:26:55.758 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:28:09.476 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 20:32:23.788 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2.cpp
+[I 20:34:43.098 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 20:34:58.110 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:36:58.472 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:37:09.173 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[W 20:37:32.475 NotebookApp] delete /S7C1/a.exe
+[W 20:37:32.480 NotebookApp] delete /S7C1/EULER_1.PNG
+[W 20:37:32.482 NotebookApp] delete /S7C1/Leap Frog.PNG
+[W 20:37:32.484 NotebookApp] delete /S7C1/Runge_Kutta_1.PNG
+[W 20:37:32.485 NotebookApp] delete /S7C1/xeu.txt
+[W 20:37:32.652 NotebookApp] delete /S7C1/xlfv.txt
+[W 20:37:32.658 NotebookApp] delete /S7C1/xlfx.txt
+[W 20:37:32.659 NotebookApp] delete /S7C1/yeuv.txt
+[W 20:37:32.661 NotebookApp] delete /S7C1/yeux.txt
+[W 20:37:32.662 NotebookApp] delete /S7C1/ylfv.txt
+[W 20:37:32.664 NotebookApp] delete /S7C1/ylfx.txt
+[W 20:37:32.665 NotebookApp] delete /S7C1/yrkv.txt
+[W 20:37:32.667 NotebookApp] delete /S7C1/yrkx.txt
+[I 20:37:59.971 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:38:59.579 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:40:21.773 NotebookApp] Copying S7C1/JuanJimenez_S7C1_EDO2.cpp to /S7C1
+[I 20:42:38.389 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2-ammor.cpp
+[I 20:44:38.769 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2-ammor.cpp
+[I 20:46:39.186 NotebookApp] Saving file at /S7C1/JuanJimenez_S7C1_EDO2-ammor.cpp
+[I 20:48:30.482 NotebookApp] Saving file at /S7C1/PLOTS_JUanJimenez_S7C1_EDO2.py
+[I 20:52:10.155 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:54:10.555 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:55:01.332 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 20:55:04.223 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[W 20:56:24.647 NotebookApp] delete /S7C1/a.exe
+[W 20:56:24.655 NotebookApp] delete /S7C1/aa.exe
+[W 20:56:24.657 NotebookApp] delete /S7C1/Euler_a.PNG
+[W 20:56:24.659 NotebookApp] delete /S7C1/Euler.PNG
+[W 20:56:24.660 NotebookApp] delete /S7C1/Leap_Frog.PNG
+[W 20:56:24.857 NotebookApp] delete /S7C1/Runge_Kutta_a.PNG
+[W 20:56:24.859 NotebookApp] delete /S7C1/Runge_Kutta.PNG
+[W 20:56:24.861 NotebookApp] delete /S7C1/xeu.txt
+[W 20:56:24.867 NotebookApp] delete /S7C1/xeua.txt
+[W 20:56:24.868 NotebookApp] delete /S7C1/xlfv.txt
+[W 20:56:24.869 NotebookApp] delete /S7C1/xlfx.txt
+[W 20:56:24.871 NotebookApp] delete /S7C1/yeuv.txt
+[W 20:56:24.872 NotebookApp] delete /S7C1/yeuva.txt
+[W 20:56:24.874 NotebookApp] delete /S7C1/yeux.txt
+[W 20:56:24.875 NotebookApp] delete /S7C1/yeuxa.txt
+[W 20:56:25.530 NotebookApp] delete /S7C1/yrkxa.txt
+[W 20:56:25.533 NotebookApp] delete /S7C1/ylfx.txt
+[W 20:56:25.541 NotebookApp] delete /S7C1/ylfv.txt
+[W 20:56:25.542 NotebookApp] delete /S7C1/yrkx.txt
+[W 20:56:25.544 NotebookApp] delete /S7C1/yrkv.txt
+[W 20:56:25.545 NotebookApp] delete /S7C1/yrkva.txt
+[I 20:57:33.091 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[W 20:57:46.641 NotebookApp] delete /S7C1/a.exe
+[W 20:57:46.644 NotebookApp] delete /S7C1/Euler.PNG
+[W 20:57:46.649 NotebookApp] delete /S7C1/Leap_Frog.PNG
+[W 20:57:46.650 NotebookApp] delete /S7C1/Runge_Kutta.PNG
+[W 20:57:46.651 NotebookApp] delete /S7C1/xeu.txt
+[W 20:57:46.811 NotebookApp] delete /S7C1/xlfv.txt
+[W 20:57:46.817 NotebookApp] delete /S7C1/xlfx.txt
+[W 20:57:46.819 NotebookApp] delete /S7C1/yeuv.txt
+[W 20:57:46.821 NotebookApp] delete /S7C1/yeux.txt
+[W 20:57:46.822 NotebookApp] delete /S7C1/ylfv.txt
+[W 20:57:47.333 NotebookApp] delete /S7C1/yrkx.txt
+[W 20:57:47.337 NotebookApp] delete /S7C1/ylfx.txt
+[W 20:57:47.340 NotebookApp] delete /S7C1/yrkv.txt
+[I 20:58:36.800 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[W 20:58:52.063 NotebookApp] delete /S7C1/a.exe
+[W 20:58:52.064 NotebookApp] delete /S7C1/Euler.PNG
+[W 20:58:52.066 NotebookApp] delete /S7C1/Leap_Frog.PNG
+[W 20:58:52.067 NotebookApp] delete /S7C1/Runge_Kutta.PNG
+[W 20:58:52.069 NotebookApp] delete /S7C1/xeu.txt
+[W 20:58:52.213 NotebookApp] delete /S7C1/xlfx.txt
+[W 20:58:52.216 NotebookApp] delete /S7C1/yeuv.txt
+[W 20:58:52.221 NotebookApp] delete /S7C1/yeux.txt
+[W 20:58:52.222 NotebookApp] delete /S7C1/ylfv.txt
+[W 20:58:52.224 NotebookApp] delete /S7C1/ylfx.txt
+[W 20:58:52.383 NotebookApp] delete /S7C1/xlfv.txt
+[W 20:58:52.389 NotebookApp] delete /S7C1/yrkv.txt
+[W 20:58:52.392 NotebookApp] delete /S7C1/yrkx.txt
+[I 20:59:59.643 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[I 21:00:15.219 NotebookApp] Saving file at /S7C1/Makefile_JuanJimenez_S7C1_EDO2.mk
+[W 21:00:48.569 NotebookApp] delete /S7C1/a.exe
+[W 21:00:48.573 NotebookApp] delete /S7C1/aa.exe
+[W 21:00:48.577 NotebookApp] delete /S7C1/Euler_a.PNG
+[W 21:00:48.578 NotebookApp] delete /S7C1/Euler.PNG
+[W 21:00:48.579 NotebookApp] delete /S7C1/yeuv.txt
+[W 21:00:49.238 NotebookApp] delete /S7C1/yeux.txt
+[W 21:00:49.240 NotebookApp] delete /S7C1/yrkx.txt
+[W 21:00:49.245 NotebookApp] delete /S7C1/yrkva.txt
+[W 21:00:49.248 NotebookApp] delete /S7C1/Leap_Frog.PNG
+[W 21:00:49.249 NotebookApp] delete /S7C1/xlfv.txt
+[W 21:00:49.251 NotebookApp] delete /S7C1/xeu.txt
+[W 21:00:49.253 NotebookApp] delete /S7C1/yeuxa.txt
+[W 21:00:49.254 NotebookApp] delete /S7C1/xeua.txt
+[W 21:00:49.410 NotebookApp] delete /S7C1/Runge_Kutta.PNG
+[W 21:00:49.414 NotebookApp] delete /S7C1/yrkv.txt
+[W 21:00:49.416 NotebookApp] delete /S7C1/Runge_Kutta_a.PNG
+[W 21:00:49.419 NotebookApp] delete /S7C1/ylfx.txt
+[W 21:00:49.420 NotebookApp] delete /S7C1/yeuva.txt
+[W 21:00:49.428 NotebookApp] delete /S7C1/yrkxa.txt
+[W 21:00:49.430 NotebookApp] delete /S7C1/ylfv.txt
+[W 21:00:49.432 NotebookApp] delete /S7C1/xlfx.txt

@@ -68,25 +68,24 @@ int main(){
 	yrkx[0]=0.1;
 	yrkv[0]=0;
     for (int i = 1; i < size; i++){
-		tm=0.1+tm;
-		double k1x=h*yrkv[i-1];
-		double k2x=h*(yrkv[i-1]+(k1x/2));
-		double k3x=h*(yrkv[i-1]+(k2x/2));
-		double k4x=h*(yrkv[i-1]+k3x);
-		yrkx[i]=yrkx[i-1]+((1/6)*(k1x+(2*k2x)+(2*k3x)+k4x));
+		double k1x=h*(yrkv[i-1]);
 		double k1v=h*funcv(yrkx[i-1]);
+		double k2x=h*(yrkv[i-1]+(k1v/2));
 		double k2v=h*funcv(yrkx[i-1]+(k1x/2));
+		double k3x=h*(yrkv[i-1]+(k2v/2));
 		double k3v=h*funcv(yrkx[i-1]+(k2x/2));
+		double k4x=h*(yrkv[i-1]+k3v);
 		double k4v=h*funcv(yrkx[i-1]+k3x);
-		yrkv[i]=yrkv[i-1]+((1/6)*(k1v+(2*k2v)+(2*k3v)+k4v));
+		yrkx[i]=yrkx[i-1]+((1.0/6)*(k1x+(2*k2x)+(2*k3x)+k4x));
+		yrkv[i]=yrkv[i-1]+((1.0/6)*(k1v+(2*k2v)+(2*k3v)+k4v));
 		};
-    ofstream yrkx1 ("yrkx.txt");
-    if (yrkx1.is_open())
+    ofstream yrkxf ("yrkx.txt");
+    if (yrkxf.is_open())
     {
 		for(int count = 0; count < size; count ++){
-            yrkx1 << yrkx[count] << " " ;
+            yrkxf << yrkx[count] << " " ;
     }
-		yrkx1.close();
+		yrkxf.close();
       };
     ofstream yrkv1 ("yrkv.txt");
     if (yrkv1.is_open())
@@ -95,6 +94,55 @@ int main(){
             yrkv1 << yrkv[count] << " " ;
     }
 		yrkv1.close();
+      };
+	//leap frog
+	int sizelf=(t2-t1)/h;
+	double ylfx[size] = {};
+	double ylfv[size] = {};
+	double xlfx[size] = {};
+	double xlfv[size] = {};
+	ylfx[0]=0.1;
+	//ylfv[0]=0;
+	xlfx[0]=0.01;
+	xlfv[0]=0.01/2;
+	ylfv[0]=(0.5*(h*funcv(ylfx[0])));					 
+    for (int i = 1; i < size; i++){
+		ylfx[i]=ylfx[i-1]+(h*(ylfv[i-1]));
+		ylfv[i]=ylfv[i-1]+(h*funcv(ylfx[i]));
+		xlfx[i]=xlfx[i-1]+h;
+		xlfv[i]=xlfv[i-1]+h;
+		};
+    ofstream ylfx1 ("ylfx.txt");
+    if (ylfx1.is_open())
+    {
+		for(int count = 0; count < size; count ++){
+            ylfx1 << ylfx[count] << " " ;
+    }
+		ylfx1.close();
+      };
+    ofstream ylfv1 ("ylfv.txt");
+    if (ylfv1.is_open())
+    {
+		for(int count = 0; count < size; count ++){
+            ylfv1 << ylfv[count] << " " ;
+    }
+		ylfv1.close();
+      };
+    ofstream xlfx1 ("xlfx.txt");
+    if (xlfx1.is_open())
+    {
+		for(int count = 0; count < size; count ++){
+            xlfx1 << xlfx[count] << " " ;
+    }
+		xlfx1.close();
+      };
+    ofstream xlfv1 ("xlfv.txt");
+    if (xlfv1.is_open())
+    {
+		for(int count = 0; count < size; count ++){
+            xlfv1 << xlfv[count] << " " ;
+    }
+		xlfv1.close();
       };
     return 0;
     }
