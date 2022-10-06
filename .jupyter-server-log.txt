@@ -631,3 +631,120 @@
 [W 21:00:49.428 NotebookApp] delete /S7C1/yrkxa.txt
 [W 21:00:49.430 NotebookApp] delete /S7C1/ylfv.txt
 [W 21:00:49.432 NotebookApp] delete /S7C1/xlfx.txt
+[W 2022-10-06 19:20:29.815 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-10-06 19:20:29.815 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-10-06 19:20:29.815 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-06 19:20:29.815 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-10-06 19:20:29.823 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-10-06 19:20:29.823 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:20:29.829 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:20:29.830 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:20:29.831 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:20:29.831 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 19:20:29.831 NotebookApp] http://jupyter-adoringstarling-2dherr-5fcomp-5f20222-2d6aae1n4l:8888/user/adoringstarling-herr_comp_20222-6aae1n4l/?token=...
+[I 19:20:29.831 NotebookApp]  or http://127.0.0.1:8888/user/adoringstarling-herr_comp_20222-6aae1n4l/?token=...
+[I 19:20:29.831 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:20:29.835 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:20:34.367 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-6aae1n4l/ (10.2.2.15) 1.030000ms
+[I 19:20:35.225 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-6aae1n4l/?token=gXb4do0iRxGQN-KHLYqT7w (168.176.239.67) 1.100000ms
+[I 19:20:35.400 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-6aae1n4l/lab/?token=gXb4do0iRxGQN-KHLYqT7w (168.176.239.67) 1.140000ms
+[I 19:20:36.498 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-6aae1n4l/static/favicons/favicon.ico (168.176.239.67) 1.130000ms
+[I 2022-10-06 19:20:41.291 LabApp] Build is up to date
+[I 19:20:42.242 NotebookApp] New terminal with automatic name: 1
+[I 19:20:47.721 NotebookApp] Creating new directory in 
+[I 19:21:00.960 NotebookApp] Uploading file to /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:23:04.736 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:23:19.607 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:24:02.794 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:26:03.361 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:26:39.747 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:27:37.002 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:28:01.382 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:28:54.847 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:29:15.578 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:31:39.976 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:31:39.983 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:35:44.320 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:37:32.617 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:41:33.685 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:43:34.148 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:44:05.083 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:44:17.937 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:45:05.294 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:47:05.659 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:48:02.326 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:48:15.520 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:49:20.958 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:49:36.778 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:49:56.331 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:50:46.436 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:52:47.618 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:52:55.159 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:53:28.134 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:57:28.646 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:58:25.212 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:58:38.870 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:58:52.844 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:00:36.605 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:01:14.587 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:04:32.670 NotebookApp] Creating new file in /S8C1
+[I 20:06:33.428 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.mk
+[I 20:06:51.358 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.mk
+[I 20:08:17.266 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.mk
+[W 20:09:12.465 NotebookApp] delete /S8C1/array.txt
+[W 20:09:21.336 NotebookApp] delete /S8C1/a.exe
+[I 20:14:55.993 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:15:33.969 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:17:24.631 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:19:20.410 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:21:22.319 NotebookApp] Kernel started: eb042829-9433-423b-8b15-dab4affd3ca1, name: python3
+[I 20:21:22.319 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 20:21:22.320 NotebookApp] Culling kernels even with connected clients
+[I 20:21:23.417 NotebookApp] Starting buffering for eb042829-9433-423b-8b15-dab4affd3ca1:367874f2-7d05-4b1b-a144-bb892ffaa7a8
+[I 20:21:23.899 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-6aae1n4l/static/favicons/favicon.ico (168.176.239.67) 1.020000ms
+[I 20:21:24.062 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-6aae1n4l/static/favicons/favicon.ico (168.176.239.67) 1.000000ms
+[I 20:21:29.037 NotebookApp] Creating new file in /S8C1
+[I 20:23:29.796 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:25:30.185 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:26:14.068 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:26:30.616 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:27:06.552 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:28:10.714 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:28:36.361 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:28:49.908 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:31:03.738 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[W 20:32:22.321 NotebookApp] Culling 'idle' kernel 'python3' (eb042829-9433-423b-8b15-dab4affd3ca1) with 1 connections due to 657 seconds of inactivity.
+[I 20:32:22.322 NotebookApp] Kernel shutdown: eb042829-9433-423b-8b15-dab4affd3ca1
+[I 20:32:24.089 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:32:25.754 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:32:53.064 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:34:00.439 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:35:43.907 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:36:11.040 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:36:13.368 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:37:06.421 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:38:22.602 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:39:07.676 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:40:04.876 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:41:48.157 NotebookApp] Saving file at /S8C1/untitled.py
+[I 20:42:29.513 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 20:42:38.889 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[W 20:42:52.760 NotebookApp] delete /S8C1/a.exe
+[W 20:42:52.770 NotebookApp] delete /S8C1/array.txt
+[W 20:42:52.772 NotebookApp] delete /S8C1/cuerda_normal.PNG
+[I 20:43:58.196 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.mk
+[I 20:45:06.268 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:45:28.524 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:45:52.625 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:45:58.601 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[W 20:46:14.723 NotebookApp] delete /S8C1/a.exe
+[W 20:46:14.727 NotebookApp] delete /S8C1/cuerda.PNG
+[W 20:46:14.731 NotebookApp] delete /S8C1/array.txt
