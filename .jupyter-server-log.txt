@@ -829,3 +829,37 @@
 [I 20:12:10.138 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
 [I 20:14:05.322 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
 [I 20:14:52.012 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:32:53.711 NotebookApp] Saving file at /S8C1/cuerda.PNG
+[I 20:36:11.484 NotebookApp] Creating new directory in 
+[W 20:36:44.469 NotebookApp] delete /S6C1/aleatorios_con_impares.png
+[W 20:36:44.479 NotebookApp] delete /S6C1/aleatorios.png
+[W 20:36:44.482 NotebookApp] delete /S6C1/example1.txt
+[W 20:36:44.485 NotebookApp] delete /S6C1/example2.txt
+[W 20:36:44.488 NotebookApp] delete /S6C1/JimenezJuan_S6C1.exe
+[W 20:37:02.633 NotebookApp] delete /S6C2/a.exe
+[W 20:37:02.638 NotebookApp] delete /S6C2/EULER.PNG
+[W 20:37:02.645 NotebookApp] delete /S6C2/x1.txt
+[W 20:37:02.649 NotebookApp] delete /S6C2/y2.txt
+[W 20:37:02.652 NotebookApp] delete /S6C2/y1.txt
+[W 20:37:02.800 NotebookApp] delete /S6C2/y3.txt
+[W 20:37:51.021 NotebookApp] delete /S7C1/Runge_Kutta_a.PNG
+[W 20:37:51.028 NotebookApp] delete /S7C1/xeu.txt
+[W 20:37:51.032 NotebookApp] delete /S7C1/Runge_Kutta.PNG
+[W 20:37:51.037 NotebookApp] delete /S7C1/xeua.txt
+[W 20:37:51.040 NotebookApp] delete /S7C1/xlfv.txt
+[W 20:37:58.493 NotebookApp] delete /S7C1/xlfx.txt
+[W 20:37:58.517 NotebookApp] delete /S7C1/yeuv.txt
+[W 20:37:58.521 NotebookApp] delete /S7C1/yeuva.txt
+[W 20:37:58.530 NotebookApp] delete /S7C1/yeux.txt
+[W 20:37:58.532 NotebookApp] delete /S7C1/yeuxa.txt
+[W 20:37:58.689 NotebookApp] delete /S7C1/ylfv.txt
+[W 20:37:58.699 NotebookApp] delete /S7C1/ylfx.txt
+[W 20:37:58.704 NotebookApp] delete /S7C1/yrkv.txt
+[W 20:37:58.708 NotebookApp] delete /S7C1/yrkx.txt
+[W 20:37:58.715 NotebookApp] delete /S7C1/yrkva.txt
+[W 20:37:58.719 NotebookApp] delete /S7C1/yrkxa.txt
+[W 20:38:09.475 NotebookApp] delete /S7C1/aa.exe
+[W 20:38:09.481 NotebookApp] delete /S7C1/a.exe
+[W 20:38:09.489 NotebookApp] delete /S7C1/Euler_a.PNG
+[W 20:38:09.495 NotebookApp] delete /S7C1/Euler.PNG
+[W 20:38:09.500 NotebookApp] delete /S7C1/Leap_Frog.PNG
