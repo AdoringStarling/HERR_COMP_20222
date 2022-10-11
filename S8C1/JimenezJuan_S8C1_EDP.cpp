@@ -34,35 +34,32 @@ int main(){
     //u presente
      for (int i = 1; i < size; i++){
             u_pre[i]=u_pas[i]+(0.5*(((c*c)*(dt*dt))/(dx*dx)))*(u_pas[i+1]-(2*(u_pas[i]))+u_pas[i-1]);};
-	u_pre[0]=0;
+	u_pre[0]=0;//condiciones de frontera
     //u futuro
      for (int i = 1; i < size; i++){
             u_fut[i]=(2*u_pre[i])-(u_pas[i])+(((c*c)*(dt*dt))/(dx*dx))*(u_pre[i+1]-(2*(u_pre[i]))+u_pre[i-1]);};
-	u_fut[0]=0;
-	double u_tot[100][500]={};
-     for (int i = 0; i < size; i++){
-			 u_tot[i][0]=u_pas[i];
-             u_tot[i][1]=u_pre[i];
-			 u_tot[i][2]=u_fut[i];}//KJNKNKJ
-     for (int t = 3; t < 500; t++){
+	u_fut[0]=0;//condiciones de frontera
+	ofstream myfile;
+	myfile.open ("array.txt");
+	for (int i = 0; i < size; i++){
+		myfile <<u_pas[i];
+		myfile << ";";}
+	myfile << "\n";
+	for (int i = 0; i < size; i++){
+		myfile <<u_pre[i];
+		myfile << ";";}
+	myfile << "\n";
+	 for (int t = 3; t < 500; t++){
 			for (int i = 0; i < size; i++){
 				u_pas[i]=u_pre[i];
 				u_pre[i]=u_fut[i];}
-			u_pas[0]=0;
-			u_pre[0]=0;
+			u_pas[0]=0; //condiciones de frontera
+			u_pre[0]=0; //bis
 			for (int i = 0; i < size; i++){
 				u_fut[i]=(2*u_pre[i])-(u_pas[i])+(((c*c)*(dt*dt))/(dx*dx))*(u_pre[i+1]-(2*(u_pre[i]))+u_pre[i-1]);
-				u_tot[i][t]=u_fut[i];}	
+				myfile <<u_fut[i];
+				myfile << ";";}
+		 myfile << "\n";
 				};
-	ofstream myfile;
-	myfile.open ("array.txt");
-	for(int i=0;i<100;i++){
-		for(int j=0;j<500;j++){
-			myfile << u_tot[i][j];
-			myfile << ";";}
-		//myfile << u_tot[i][j+1];
-		myfile << "\n";
-		}
 	myfile.close();
-    return 0;
     }

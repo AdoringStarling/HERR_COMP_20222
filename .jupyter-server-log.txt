@@ -800,3 +800,32 @@
 [I 19:44:18.180 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
 [I 19:46:18.599 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
 [I 19:47:25.691 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:57:26.498 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:59:26.874 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:01:15.378 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:01:20.445 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:01:30.992 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:02:00.072 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:03:01.075 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:04:15.204 NotebookApp] Creating new notebook in /S8C1
+[I 20:04:16.483 NotebookApp] Kernel started: b619354d-78f4-437e-9672-b26c4a3a55d8, name: python3
+[I 20:04:16.484 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 20:04:16.485 NotebookApp] Culling kernels even with connected clients
+[I 20:04:17.725 NotebookApp] Starting buffering for b619354d-78f4-437e-9672-b26c4a3a55d8:d624499c-b7f3-427c-aaff-515c332044c3
+[I 20:04:18.231 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-k9yxh5a0/static/favicons/favicon.ico (168.176.239.67) 1.260000ms
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 1a9a2b69-f992-42c9-b45d-9251a62e032c
+[I 20:04:18.364 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-k9yxh5a0/static/favicons/favicon.ico (168.176.239.67) 2.130000ms
+[I 20:04:22.035 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-k9yxh5a0/static/favicons/favicon-busy-1.ico (168.176.239.67) 0.960000ms
+[I 20:05:33.387 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 20:06:16.090 NotebookApp] Saving file at /S8C1/Untitled.ipynb
+[I 20:08:16.812 NotebookApp] Saving file at /S8C1/Untitled.ipynb
+[I 20:09:57.454 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 20:10:04.683 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:11:18.802 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 20:11:20.895 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 20:12:02.707 NotebookApp] Kernel shutdown: b619354d-78f4-437e-9672-b26c4a3a55d8
+[W 20:12:03.391 NotebookApp] delete /S8C1/Untitled.ipynb
+[I 20:12:10.138 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 20:14:05.322 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 20:14:52.012 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
