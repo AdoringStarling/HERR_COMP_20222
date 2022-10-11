@@ -10,7 +10,7 @@
 
 using namespace std;
 
-//https://stackoverflow.com/questions/47871245/saving-matrix-to-a-file-txt-format-in-c
+//https://stackoverflow.com/questions/47871245/saving-matrix-to-a-file-txt-format-in-cghgh
 
 int main(){
     double c=300.0;
@@ -19,7 +19,7 @@ int main(){
     double dx=0.02;
     int size=100;
     double dt=0.5*(dx/c);
-    double u_pas[size]={};//u pasado sigue ecuacion de la recta
+    double u_pas[size]={};//u pasado sigue ecuacion de la recta__
     double u_pre[size]={};//u presente u1_i
     double u_fut[size]={};//u presente u(j+1)_i
     //u pasado
@@ -33,27 +33,33 @@ int main(){
                         };
     //u presente
      for (int i = 1; i < size; i++){
-            u_pre[i]=u_pas[i]+(0.5*(((c*c)*(dt*dt))/(dx*dx)))*(u_pas[i+1]-(2*(u_pas[i]))+u_pas[i-1]);}
-    //u futuro  jfnjksnbfk q4eqeqadadaa
+            u_pre[i]=u_pas[i]+(0.5*(((c*c)*(dt*dt))/(dx*dx)))*(u_pas[i+1]-(2*(u_pas[i]))+u_pas[i-1]);};
+	u_pre[0]=0;
+    //u futuro
      for (int i = 1; i < size; i++){
-            u_fut[i]=(2*u_pre[i])-(u_pas[i])+(((c*c)*(dt*dt))/(dx*dx))*(u_pre[i+1]-(2*(u_pre[i]))+u_pre[i-1]);}
+            u_fut[i]=(2*u_pre[i])-(u_pas[i])+(((c*c)*(dt*dt))/(dx*dx))*(u_pre[i+1]-(2*(u_pre[i]))+u_pre[i-1]);};
+	u_fut[0]=0;
 	double u_tot[100][500]={};
      for (int i = 0; i < size; i++){
 			 u_tot[i][0]=u_pas[i];
              u_tot[i][1]=u_pre[i];
-			 u_tot[i][2]=u_fut[i];}
+			 u_tot[i][2]=u_fut[i];}//KJNKNKJ
      for (int t = 3; t < 500; t++){
-			for (int i = 2; i < size; i++){
+			for (int i = 0; i < size; i++){
 				u_pas[i]=u_pre[i];
-				u_pre[i]=u_fut[i];
+				u_pre[i]=u_fut[i];}
+			u_pas[0]=0;
+			u_pre[0]=0;
+			for (int i = 0; i < size; i++){
 				u_fut[i]=(2*u_pre[i])-(u_pas[i])+(((c*c)*(dt*dt))/(dx*dx))*(u_pre[i+1]-(2*(u_pre[i]))+u_pre[i-1]);
-				u_tot[i][t]=u_fut[i];}	};
+				u_tot[i][t]=u_fut[i];}	
+				};
 	ofstream myfile;
 	myfile.open ("array.txt");
 	for(int i=0;i<100;i++){
 		for(int j=0;j<500;j++){
 			myfile << u_tot[i][j];
-			myfile << " ";}
+			myfile << ";";}
 		//myfile << u_tot[i][j+1];
 		myfile << "\n";
 		}

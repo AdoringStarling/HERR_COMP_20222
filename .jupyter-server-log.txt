@@ -748,3 +748,55 @@
 [W 20:46:14.723 NotebookApp] delete /S8C1/a.exe
 [W 20:46:14.727 NotebookApp] delete /S8C1/cuerda.PNG
 [W 20:46:14.731 NotebookApp] delete /S8C1/array.txt
+[W 2022-10-11 19:12:20.277 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.277 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.277 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.278 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.278 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.278 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.278 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.278 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-10-11 19:12:20.278 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-10-11 19:12:20.278 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.278 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-11 19:12:20.278 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-10-11 19:12:20.286 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-10-11 19:12:20.286 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 19:12:20.293 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 19:12:20.294 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 19:12:20.295 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 19:12:20.295 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 19:12:20.295 NotebookApp] http://jupyter-adoringstarling-2dherr-5fcomp-5f20222-2dk9yxh5a0:8888/user/adoringstarling-herr_comp_20222-k9yxh5a0/?token=...
+[I 19:12:20.295 NotebookApp]  or http://127.0.0.1:8888/user/adoringstarling-herr_comp_20222-k9yxh5a0/?token=...
+[I 19:12:20.295 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 19:12:20.300 NotebookApp] No web browser found: could not locate runnable browser.
+[I 19:12:21.407 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-k9yxh5a0/ (10.2.2.15) 1.540000ms
+[I 19:12:22.919 NotebookApp] 302 GET /user/adoringstarling-herr_comp_20222-k9yxh5a0/?token=zhiwBSP2SR2nhOrSEwbm4A (168.176.239.67) 1.280000ms
+[I 19:12:23.264 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-k9yxh5a0/lab/?token=zhiwBSP2SR2nhOrSEwbm4A (168.176.239.67) 2.530000ms
+[I 19:12:25.044 NotebookApp] 301 GET /user/adoringstarling-herr_comp_20222-k9yxh5a0/static/favicons/favicon.ico (168.176.239.67) 1.000000ms
+[I 2022-10-11 19:12:33.320 LabApp] Build is up to date
+[I 19:12:34.502 NotebookApp] New terminal with automatic name: 1
+[I 19:18:36.592 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:21:13.532 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:21:19.501 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:23:19.908 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:23:28.369 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:23:55.705 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 19:24:05.796 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 19:26:37.054 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:37:16.040 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:37:24.328 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:38:25.541 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 19:38:38.490 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 19:38:58.938 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:40:54.564 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:40:54.571 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:42:08.662 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 19:42:29.869 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:43:00.966 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:43:02.722 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:44:08.610 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_edp.py
+[I 19:44:16.710 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:44:18.180 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:46:18.599 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
+[I 19:47:25.691 NotebookApp] Saving file at /S8C1/JimenezJuan_S8C1_EDP.cpp
