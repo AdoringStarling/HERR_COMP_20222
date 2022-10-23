@@ -20,7 +20,6 @@ alm=[]
 alm.append(np.random.randint(-4, 4, 1)[0])
 for sig,pas in zip(sigma,pasos):
   for i in range(pas):
-    # x_new = np.random.random()*2-sigma
     x_new = np.random.normal(0, sig, 1000)
     x_new= np.interp(x_new, (x_new.min(), x_new.max()), (-4, 4))[0]
     # np.random.normal(x_old,sigma,1)[0]
